@@ -36,3 +36,5 @@ jobs:
             git commit -m "Build Indicator 13 review PDF"
             git push
           fi
+
+# Triggered from ChatGPT after local PDF verification.
